@@ -1,0 +1,219 @@
+.frame4-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame4-frame4 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame4-bg3 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+}
+.frame4-event {
+  top: 147px;
+  left: 168px;
+  width: 164px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame4-text {
+  top: 7px;
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-navlink {
+  display: contents;
+}
+.frame4-shop {
+  top: 147px;
+  left: 432px;
+  width: 164px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.frame4-text2 {
+  top: 7px;
+  left: 10px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-navlink1 {
+  display: contents;
+}
+.frame4-music {
+  top: 147px;
+  left: 696px;
+  width: 164px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.frame4-text4 {
+  top: 7px;
+  left: 1px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-navlink2 {
+  display: contents;
+}
+.frame4-video {
+  top: 147px;
+  left: 960px;
+  width: 164px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.frame4-text6 {
+  top: 7px;
+  left: 6px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Metal Mania;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-rm1 {
+  top: 416px;
+  left: 364px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame4-rectangle3 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
+.frame4-navlink3 {
+  display: contents;
+}
+.frame4-soundingtheseventhtrumpet16781333591 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  text-decoration: none;
+}
+.frame4-rm2 {
+  top: 416px;
+  left: 812px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame4-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
+.frame4-rm3 {
+  top: 416px;
+  left: 1260px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame4-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+}
+.frame4-navlink4 {
+  display: contents;
+}
+.frame4-avengedsevenfold16781329091 {
+  top: 416px;
+  left: 812px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  text-decoration: none;
+}
+.frame4-navlink5 {
+  display: contents;
+}
+.frame4-libad16788002131 {
+  top: 416px;
+  left: 1260px;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  text-decoration: none;
+}
